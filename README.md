@@ -35,7 +35,7 @@
 [p9.jpg](p9_sofia_escolano.mp4)
 
 ## p10
-[p10.jpg](p10_sofia_escolano.mp4)p10.jpg
+[p10.jpg](p10_sofia_escolano.mp4)
 
 ## p11
 [p11.jpg](p11_sofia_escolano.mp4)
