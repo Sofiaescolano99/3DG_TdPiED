@@ -29,16 +29,16 @@
 [p7.gif](p7_sofia_escolano.gif)
 
 ## p8
-[p8.jpg](p8_sofia_escolano.mp4)
+[p8.jpg](p8_sofia_escolano.jpg)
 
 ## p9
-[p9.jpg](p9_sofia_escolano.mp4)
+[p9.jpg](p9_sofia_escolano.jpg)
 
 ## p10
-[p10.jpg](p10_sofia_escolano.mp4)
+[p10.jpg](p10_sofia_escolano.jpg)
 
 ## p11
-[p11.jpg](p11_sofia_escolano.mp4)
+[p11.jpg](p11_sofia_escolano.jpg)
 
 ## Pruebas extra
 [prueba1.mp4](prueba1_sofia_escolano.mp4)
